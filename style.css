@@ -27,6 +27,9 @@ body{
     box-shadow: 1px 2px 9px 2px rgb(153, 151, 151) ;
     border-radius: 20px;
 }
+.card:first-child{
+    display: flex;
+}
 .card p{
     padding: 20px;
 }
