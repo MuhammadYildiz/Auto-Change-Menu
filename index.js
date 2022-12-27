@@ -1,5 +1,4 @@
 const card = document.querySelectorAll('.card');
-const random= document.querySelector('.random');
 let number = 1;
 
 function change(){
