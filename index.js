@@ -1,6 +1,4 @@
 const card = document.querySelectorAll('.card');
-const next= document.querySelector('.next');
-const before= document.querySelector('.before');
 const random= document.querySelector('.random');
 let number = 1;
 
